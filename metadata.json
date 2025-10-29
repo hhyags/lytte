@@ -1,0 +1,5 @@
+{
+  "name": "Lytte Songs",
+  "description": "A locally runnable, open-source, fully functional music streaming web app. Upload your own music with album art and manage your library.",
+  "requestFramePermissions": []
+}
